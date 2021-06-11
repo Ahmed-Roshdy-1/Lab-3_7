@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1579263097 source:d:\college\level 2\data structuer\practice\sheet 3\14-\stack.c
+	"stack.h"
+
+1579263713 d:\college\level 2\data structuer\practice\sheet 3\14-\stack.h
+
+1579264487 source:d:\college\level 2\trem 1\data structuer\practice\sheet 3\14-\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1579263713 d:\college\level 2\trem 1\data structuer\practice\sheet 3\14-\stack.h
+
+1579263097 source:d:\college\level 2\trem 1\data structuer\practice\sheet 3\14-\stack.c
+	"stack.h"
+
